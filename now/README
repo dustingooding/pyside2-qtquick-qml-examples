@@ -1,0 +1,7 @@
+A simple PySide2 Qt Quick example that has a pure Python data class, a QObject wrapper 'model', and a QML view.  Model and View are updated based on Qt signals and slots.
+
+Tested with:
+	* Ubuntu 14.04
+	* Python 2.7
+	* Qt 5.5+ - https://launchpad.net/~beineri/+archive/ubuntu/opt-qt551-trusty
+	* PySide2 - https://github.com/PySide/pyside2
