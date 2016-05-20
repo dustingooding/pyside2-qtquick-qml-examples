@@ -3,5 +3,6 @@ A simple PySide2 Qt Quick example that has a pure Python data class, a QObject w
 Tested with:
 	* Ubuntu 14.04
 	* Python 2.7
-	* Qt 5.5+ - https://launchpad.net/~beineri/+archive/ubuntu/opt-qt551-trusty
+	* Qt 5.6 - https://launchpad.net/~beineri/+archive/ubuntu/opt-qt56-trusty
 	* PySide2 - https://github.com/PySide/pyside2
+	* PyQt5 - https://www.riverbankcomputing.com/software/pyqt/download5
