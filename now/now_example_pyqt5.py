@@ -50,7 +50,9 @@ def main():
     qml_root = engine.rootObjects()[0]
     qml_root.updateModel.connect(now_model.update)
 
-    sys.exit(app.exec_())
+    app.exec_()
+    del engine
+    sys.exit()
 
 if __name__ == "__main__":
     main()
