@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>now</name>
+  <version>0.0.0</version>
+  <description>The now package</description>
+
+  <maintainer email="dustingooding@gmail.com">Dustin Gooding</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
